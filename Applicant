@@ -6,6 +6,6 @@
 
   <body  class="pg"> 
     <h1>ATD Audit</h1>
-    <iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODJmZWM1MTUtOTUyZi00NzQwLWE2ZjEtNGExZjgxMTZhOTE2IiwidCI6IjJjZjFiZWMwLTI1MmQtNGU1Yi05Y2QwLTRkMGJiZjI2MTRlYSJ9" frameborder="0" allowFullScreen="true"></iframe>
+    <iframe title="Report Section" width="900" height="675" src="https://app.powerbi.com/view?r=eyJrIjoiODJmZWM1MTUtOTUyZi00NzQwLWE2ZjEtNGExZjgxMTZhOTE2IiwidCI6IjJjZjFiZWMwLTI1MmQtNGU1Yi05Y2QwLTRkMGJiZjI2MTRlYSJ9" frameborder="0" allowFullScreen="true"></iframe>
   </body>
 </html>
